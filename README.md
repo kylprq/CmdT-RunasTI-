@@ -1,6 +1,5 @@
 # CMDT - Run as TrustedInstaller
 
-![cmdt](images/cmdt.gif)
 
 **The smallest fully functional TrustedInstaller elevation tool for Windows, written entirely in bare-metal x86/x64 assembly.**
 
